@@ -2,6 +2,8 @@
 name = "leptos-modal-macros"
 version = "0.2.0"
 edition = "2024"
+description = "Macros for leptos-modal"
+license = "MIT or Apache-2.0"
 
 [lib]
 proc-macro = true
