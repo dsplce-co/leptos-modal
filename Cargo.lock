@@ -994,7 +994,7 @@ dependencies = [
 
 [[package]]
 name = "leptos-modal"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "clone_dyn",
  "leptos",
@@ -1006,7 +1006,7 @@ dependencies = [
 
 [[package]]
 name = "leptos-modal-macros"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "quote",
  "syn",
