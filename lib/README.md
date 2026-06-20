@@ -25,7 +25,7 @@
 
 
 
-![z-index always wins](./assets/harvey-specter.gif)
+![z-index always wins](https://raw.githubusercontent.com/dsplce-co/leptos-modal/master/lib/assets/harvey-specter.gif)
 
 ---
 
